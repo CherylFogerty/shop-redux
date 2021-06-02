@@ -6,3 +6,7 @@ SO THAT my website's state management is taken out of the React ecosystem.
 
 To install this application clone the file from GitHub by running "git clone" from your terminal and then run "npm install".Once the file is loaded run "npm start" from the the network terminal in the root folder.
 
+<img width="1780" alt="Screen Shot 2021-06-01 at 7 51 51 PM" src="https://user-images.githubusercontent.com/73960863/120408427-a3373a80-c314-11eb-85fb-a9b2483a7757.png">
+
+GitHub Repo:
+https://github.com/CherylFogerty/shop-redux
